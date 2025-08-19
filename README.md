@@ -1,1 +1,3 @@
 # Hola mundo desde git y github
+* SEQUEL or S-Q-L?
+* you, decide...
